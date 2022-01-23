@@ -13,3 +13,6 @@ A LFSR is specified entirely by its polynomial. For example, a 6th-degree polyno
 
 ![Block Diagram](https://github.com/ugurbayezit/Random-Noise-Generator/blob/main/LFSR-F16.png)
 
+## LFSR Polynomials Table
+
+![Table](https://github.com/ugurbayezit/Random-Noise-Generator/blob/main/LFSR-Table.PNG)
