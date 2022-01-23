@@ -17,4 +17,4 @@ A LFSR is specified entirely by its polynomial. For example, a 6th-degree polyno
 
 ![Table](https://github.com/ugurbayezit/Random-Noise-Generator/blob/main/LFSR-Table.PNG)
 
-**If you are using vivado, you can change the waveform style to analog in the test bench.** 
+### Note: **If you are using vivado, you can change the waveform style to analog in the test bench.** 
