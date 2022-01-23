@@ -1,5 +1,5 @@
 # Random-Noise-Generator
-Random Noise Generation using LFSR and İmplementation Matlab and VHDL
+Random Noise Generation using LFSR and Implementation Matlab and VHDL
 
 ## What Linear FeedBack Shift Register Mean?
 
